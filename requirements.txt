@@ -4,3 +4,4 @@ matplotlib
 tensorflow
 tensorboard
 glob2
+imageio
