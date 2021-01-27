@@ -3,3 +3,4 @@ numpy
 matplotlib
 tensorflow
 tensorboard
+glob2
