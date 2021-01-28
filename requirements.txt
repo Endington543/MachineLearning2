@@ -5,3 +5,6 @@ tensorflow
 tensorboard
 glob2
 imageio
+pathlib
+seaborn
+IPython
